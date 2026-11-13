@@ -1,6 +1,6 @@
-# AI community intern
+# AI community prep
 
-A prep helper for the Teays AI Community. Version 2026.11.2.
+A prep helper for the Teays AI Community. Version 2026.11.3.
 
 It is one plain-text file that you add to the AI assistant you already use. Before each session it helps you find the session brief, look over your own recent AI work, answer five short questions, and build one slide to share. The first time, it also helps you fill in a short company card that you email to Remix Partners yourself.
 
@@ -14,8 +14,8 @@ You can skip any step or any question. Say skip.
 
 ## Get the file
 
-- [ai-community-intern.zip](ai-community-intern.zip): the skill, for Claude, ChatGPT and Copilot. Click the link, then the Download button.
-- [SKILL.md](ai-community-intern/SKILL.md): the same file unzipped, for Gemini and for pasting. The [raw version](https://raw.githubusercontent.com/remixpartners/ai-community-intern/main/ai-community-intern/SKILL.md) is plain text you can copy straight from your browser.
+- [ai-community-prep.zip](ai-community-prep.zip): the skill, for Claude, ChatGPT and Copilot. Click the link, then the Download button.
+- [SKILL.md](ai-community-prep/SKILL.md): the same file unzipped, for Gemini and for pasting. The [raw version](https://raw.githubusercontent.com/remixpartners/ai-community-prep/main/ai-community-prep/SKILL.md) is plain text you can copy straight from your browser.
 
 Read it before you install it. Everything the assistant will follow is in that one file. There is nothing else in this repository that the assistant reads.
 
@@ -29,7 +29,7 @@ Pick the note for your assistant and follow the steps:
 - [Gemini](install-notes/gemini.md)
 - [Any assistant, without installing](install-notes/paste-fallback.md), for companies that block skill uploads
 
-Then open a new chat and say: "Use AI community intern and let's start."
+Then open a new chat and say: "Use AI community prep and let's start."
 
 ## For your IT lead or counsel
 

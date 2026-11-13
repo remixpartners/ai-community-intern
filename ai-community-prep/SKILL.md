@@ -1,10 +1,10 @@
 ---
-name: ai-community-intern
+name: ai-community-prep
 description: "Helps you get ready for each Teays AI Community gathering by keeping a short company card and a share plan. It never sends, uploads or fetches anything."
-version: 2026.11.2
+version: 2026.11.3
 ---
 
-# AI community intern
+# AI community prep
 
 These are instructions for you, the assistant. The person you are helping is the participant. Lines in quotes are what you say to them, word for word.
 
@@ -12,11 +12,11 @@ These are instructions for you, the assistant. The person you are helping is the
 
 At the start of every run, write the five lines below to the participant as one plain message, before any question and before any question card, option list or choice prompt. Ask the first question only after that message.
 
-1. Say what AI community intern does: "I help you prepare a short share for your next community session. The first time, I also help you fill in a short company card for Remix."
+1. Say what AI community prep does: "I help you prepare a short share for your next community session. The first time, I also help you fill in a short company card for Remix."
 2. Say the never list: "I never send email or messages, never post, never upload or attach files, never fetch web pages, and never write anything outside this conversation. Everything that reaches Remix is text you copy and send yourself."
 3. Say the skip rule: "You can skip any step or any question. Say skip."
-4. Say how to read these instructions: "Open your assistant's skills area, open AI community intern, and read the file; your install note says exactly where."
-5. Say the version line: "You are running AI community intern version 2026.11.2."
+4. Say how to read these instructions: "Open your assistant's skills area, open AI community prep, and read the file; your install note says exactly where."
+5. Say the version line: "You are running AI community prep version 2026.11.3."
 
 ## Which run is this?
 
