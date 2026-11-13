@@ -1,10 +1,10 @@
-# AI community intern: what it does and never does
+# AI community prep: what it does and never does
 
 For the IT lead or counsel deciding whether to allow it. One page, plain facts.
 
 ## What it is
 
-AI community intern is a document, not software. It is one plain-text markdown file, SKILL.md, that the participant adds to their own AI assistant. The assistant reads it as a set of instructions for one conversation. It contains no scripts, no code that makes network calls, and no links. It acts only inside a conversation the participant started, never on a schedule or in the background; some assistants may open it in such a conversation when a request matches its description.
+AI community prep is a document, not software. It is one plain-text markdown file, SKILL.md, that the participant adds to their own AI assistant. The assistant reads it as a set of instructions for one conversation. It contains no scripts, no code that makes network calls, and no links. It acts only inside a conversation the participant started, never on a schedule or in the background; some assistants may open it in such a conversation when a request matches its description.
 
 ## What it does
 
@@ -30,11 +30,11 @@ Only text the participant copies into an email they send themselves: the company
 
 ## How to inspect it
 
-Unzip ai-community-intern.zip. It holds one folder, ai-community-intern, with one file, SKILL.md. The same file is published next to the zip. Open it in any text editor. What you read is the whole of it; the assistant gets nothing else from this package.
+Unzip ai-community-prep.zip. It holds one folder, ai-community-prep, with one file, SKILL.md. The same file is published next to the zip. Open it in any text editor. What you read is the whole of it; the assistant gets nothing else from this package.
 
 ## How to remove it
 
-Delete AI community intern from the assistant's skills list, or delete its folder. Removal does not undo anything the assistant kept in conversation history or memory, or a card already emailed to Remix. To have a company's card deleted, write to the contact address below.
+Delete AI community prep from the assistant's skills list, or delete its folder. Removal does not undo anything the assistant kept in conversation history or memory, or a card already emailed to Remix. To have a company's card deleted, write to the contact address below.
 
 ## Who to contact
 
